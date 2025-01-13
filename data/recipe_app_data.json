@@ -5,15 +5,15 @@
         "picture_url": 
         "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Gl%C3%B6gg_kastrull.JPG/800px-Gl%C3%B6gg_kastrull.JPG",
         "ingredients": [
-            { "NAME": "Orange zest", "AMOUNT": "0.5" },
-            { "NAME": "Water", "AMOUNT": "200 ml" },
-            { "NAME": "Sugar", "AMOUNT": "275 g" },
-            { "NAME": "Whole cloves", "AMOUNT": "5" },
-            { "NAME": "Cinnamon sticks", "AMOUNT": "2" },
-            { "NAME": "Spice", "AMOUNT": "a little" },
-            { "NAME": "Bottle of red wine", "AMOUNT": "1" },
-            { "NAME": "Raisins", "AMOUNT": "100 g" },
-            { "NAME": "Slipped Almonds", "AMOUNT": "50 g" }
+            { "NAME": "Orange zest", "AMOUNT": "0.5", "PRICE": 5 },
+            { "NAME": "Water", "AMOUNT": "200 ml", "PRICE": 0 },
+            { "NAME": "Sugar", "AMOUNT": "275 g", "PRICE": 10 },
+            { "NAME": "Whole cloves", "AMOUNT": "5", "PRICE": 3 },
+            { "NAME": "Cinnamon sticks", "AMOUNT": "2", "PRICE": 5 },
+            { "NAME": "Spice", "AMOUNT": "a little", "PRICE": 1 },
+            { "NAME": "Bottle of red wine", "AMOUNT": "1", "PRICE": 80 },
+            { "NAME": "Raisins", "AMOUNT": "100 g", "PRICE": 15 },
+            { "NAME": "Slipped Almonds", "AMOUNT": "50 g", "PRICE": 20 }
         ],
         "description": "Mix everything, heat it, and you are good to go!"
     },
@@ -23,11 +23,11 @@
         "picture_url":
         "./assets/Chiffon-Cake-img.jpg",
         "ingredients": [
-            { "NAME": "Flour", "AMOUNT": "60 g" },
-            { "NAME": "Milk", "AMOUNT": "40 g" },
-            { "NAME": "Sugar", "AMOUNT": "65 g" },
-            { "NAME": "Oil", "AMOUNT": "30 g" },
-            { "NAME": "Eggs", "AMOUNT": "4" }
+            { "NAME": "Flour", "AMOUNT": "60 g", "PRICE": 5 },
+            { "NAME": "Milk", "AMOUNT": "40 g", "PRICE": 12 },
+            { "NAME": "Sugar", "AMOUNT": "65 g", "PRICE": 8 },
+            { "NAME": "Oil", "AMOUNT": "30 g", "PRICE": 5 },
+            { "NAME": "Eggs", "AMOUNT": "4", "PRICE": 10 }
         ],
         "description": "Bake 50 minutes with 180 degree!"
     },
@@ -37,11 +37,11 @@
         "picture_url":
         "./assets/uncooked-dumpling.jpeg",
         "ingredients": [
-            { "NAME": "Flour", "AMOUNT": "416 g" },
-            { "NAME": "Water", "AMOUNT": "200 g" },
-            { "NAME": "Salt", "AMOUNT": "3 g" },
-            { "NAME": "Minced Meat", "AMOUNT": "500 g" },
-            { "NAME": "Corn", "AMOUNT": "100 g" }
+            { "NAME": "Flour", "AMOUNT": "416 g", "PRICE": 12 },
+            { "NAME": "Water", "AMOUNT": "200 g", "PRICE": 0 },
+            { "NAME": "Salt", "AMOUNT": "3 g", "PRICE": 1 },
+            { "NAME": "Minced Meat", "AMOUNT": "500 g", "PRICE": 40 },
+            { "NAME": "Corn", "AMOUNT": "100 g", "PRICE": 8 }
         ],
         "description": "Boiled for 10 minutes and enjoy!"
     }
