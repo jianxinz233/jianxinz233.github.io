@@ -5,15 +5,15 @@
         "picture_url": 
         "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Gl%C3%B6gg_kastrull.JPG/800px-Gl%C3%B6gg_kastrull.JPG",
         "ingredients": [
-            { "name": "Orange zest", "amount": "0.5", "price": 5 },
-            { "name": "Water", "amount": "200 ml", "price": 0 },
-            { "name": "Sugar", "amount": "275 g", "price": 10 },
-            { "name": "Whole cloves", "amount": "5", "price": 3 },
-            { "name": "Cinnamon sticks", "amount": "2", "price": 5 },
-            { "name": "Spice", "amount": "a little", "price": 1 },
-            { "name": "Bottle of red wine", "amount": "1", "price": 80 },
-            { "name": "Raisins", "amount": "100 g", "price": 15 },
-            { "name": "Slipped Almonds", "amount": "50 g", "price": 20 }
+            { "name": "Orange zest", "amount": 0.5, "unit": "", "price": 5 },
+            { "name": "Water", "amount": 200, "unit": "ml", "price": 0 },
+            { "name": "Sugar", "amount": 275, "unit": "gram", "price": 10 },
+            { "name": "Whole cloves", "amount": 5, "unit": "", "price": 3 },
+            { "name": "Cinnamon sticks", "amount": 2, "unit": "", "price": 5 },
+            { "name": "Spice", "amount": 0.1, "unit": "gram", "price": 1 },
+            { "name": "Red wine", "amount": 1, "unit": "bottle", "price": 80 },
+            { "name": "Raisins", "amount": 100, "unit": "gram", "price": 15 },
+            { "name": "Slipped Almonds", "amount": 50, "unit": "gram", "price": 20 }
         ],
         "description": "Mix everything, heat it, and you are good to go!"
     },
@@ -23,11 +23,11 @@
         "picture_url":
         "./assets/Chiffon-Cake-img.jpg",
         "ingredients": [
-            { "name": "Flour", "amount": "60 g", "price": 5 },
-            { "name": "Milk", "amount": "40 g", "price": 12 },
-            { "name": "Sugar", "amount": "65 g", "price": 8 },
-            { "name": "Oil", "amount": "30 g", "price": 5 },
-            { "name": "Eggs", "amount": "4", "price": 10 }
+            { "name": "Flour", "amount": 60, "unit": "gram", "price": 5 },
+            { "name": "Milk", "amount": 40, "unit": "gram", "price": 12 },
+            { "name": "Sugar", "amount": 65, "unit": "gram", "price": 8 },
+            { "name": "Oil", "amount": 30, "unit": "gram", "price": 5 },
+            { "name": "Eggs", "amount": 4, "unit": "", "price": 10 }
         ],
         "description": "Bake 50 minutes with 180 degree!"
     },
@@ -37,11 +37,11 @@
         "picture_url":
         "./assets/uncooked-dumpling.jpeg",
         "ingredients": [
-            { "name": "Flour", "amount": "416 g", "price": 12 },
-            { "name": "Water", "amount": "200 g", "price": 0 },
-            { "name": "Salt", "amount": "3 g", "price": 1 },
-            { "name": "Minced Meat", "amount": "500 g", "price": 40 },
-            { "name": "Corn", "amount": "100 g", "price": 8 }
+            { "name": "Flour", "amount": 416, "unit": "gram", "price": 12 },
+            { "name": "Water", "amount": 200, "unit": "gram", "price": 0 },
+            { "name": "Salt", "amount": 3, "unit": "gram", "price": 1 },
+            { "name": "Minced Meat", "amount": 500, "unit": "gram", "price": 40 },
+            { "name": "Corn", "amount": 100, "unit": "gram", "price": 8 }
         ],
         "description": "Boiled for 10 minutes and enjoy!"
     }
