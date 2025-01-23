@@ -7,13 +7,13 @@
         "ingredients": [
             { "name": "Orange zest", "amount": 0.5, "unit": "", "price": 5 },
             { "name": "Water", "amount": 200, "unit": "ml", "price": 0 },
-            { "name": "Sugar", "amount": 275, "unit": "gram", "price": 10 },
+            { "name": "Sugar", "amount": 275, "unit": "g", "price": 10 },
             { "name": "Whole cloves", "amount": 5, "unit": "", "price": 3 },
             { "name": "Cinnamon sticks", "amount": 2, "unit": "", "price": 5 },
-            { "name": "Spice", "amount": 0.1, "unit": "gram", "price": 1 },
+            { "name": "Spice", "amount": 0.1, "unit": "g", "price": 1 },
             { "name": "Red wine", "amount": 1, "unit": "bottle", "price": 80 },
-            { "name": "Raisins", "amount": 100, "unit": "gram", "price": 15 },
-            { "name": "Slipped Almonds", "amount": 50, "unit": "gram", "price": 20 }
+            { "name": "Raisins", "amount": 100, "unit": "g", "price": 15 },
+            { "name": "Slipped Almonds", "amount": 50, "unit": "g", "price": 20 }
         ],
         "description": "Mix everything, heat it, and you are good to go!"
     },
@@ -23,10 +23,10 @@
         "picture_url":
         "./assets/Chiffon-Cake-img.jpg",
         "ingredients": [
-            { "name": "Flour", "amount": 60, "unit": "gram", "price": 5 },
-            { "name": "Milk", "amount": 40, "unit": "gram", "price": 12 },
-            { "name": "Sugar", "amount": 65, "unit": "gram", "price": 8 },
-            { "name": "Oil", "amount": 30, "unit": "gram", "price": 5 },
+            { "name": "Flour", "amount": 60, "unit": "g", "price": 5 },
+            { "name": "Milk", "amount": 40, "unit": "g", "price": 12 },
+            { "name": "Sugar", "amount": 65, "unit": "g", "price": 8 },
+            { "name": "Oil", "amount": 30, "unit": "g", "price": 5 },
             { "name": "Eggs", "amount": 4, "unit": "", "price": 10 }
         ],
         "description": "Separate the egg york and egg white, mix egg york with milk, oil and flour together. Whip the egg white with sugar in a high speed into solid foam shape. Mix all together, and pour into a 6-inch cake form. Bake 50 minutes with 180 degree!"
@@ -37,11 +37,11 @@
         "picture_url":
         "./assets/uncooked-dumpling.jpeg",
         "ingredients": [
-            { "name": "Flour", "amount": 416, "unit": "gram", "price": 12 },
-            { "name": "Water", "amount": 200, "unit": "gram", "price": 0 },
-            { "name": "Salt", "amount": 3, "unit": "gram", "price": 1 },
-            { "name": "Minced Meat", "amount": 500, "unit": "gram", "price": 40 },
-            { "name": "Corn", "amount": 100, "unit": "gram", "price": 8 }
+            { "name": "Flour", "amount": 416, "unit": "g", "price": 12 },
+            { "name": "Water", "amount": 200, "unit": "g", "price": 0 },
+            { "name": "Salt", "amount": 3, "unit": "g", "price": 1 },
+            { "name": "Minced Meat", "amount": 500, "unit": "g", "price": 40 },
+            { "name": "Corn", "amount": 100, "unit": "g", "price": 8 }
         ],
         "description": "Mix flour with salt and water. Keep the dough in a warm enviroment for 40 minutes. Mix minced meat with salt, sugar, soy sause, oyster sause, white pepper powder and corn. Divide the dough into suitable sizes, roll it out flat, and fill it with meat filling. Boiled for 10 minutes and enjoy!"
     },
@@ -52,7 +52,7 @@
         "./assets/egg-fried-rice.jpg",
         "ingredients": [
             { "name": "Eggs", "amount": 2, "unit": "", "price": 5 },
-            { "name": "Cooked Rice", "amount": 150, "unit": "gram", "price": 8 },
+            { "name": "Cooked Rice", "amount": 150, "unit": "g", "price": 8 },
             { "name": "Salt", "amount": 1, "unit": "pinch", "price": 1 },
             { "name": "Oil", "amount": 8, "unit": "ml", "price": 3 },
             { "name": "Green Onion", "amount": 1, "unit": "", "price": 2 },
@@ -66,11 +66,11 @@
         "picture_url":
         "./assets/basque-cheesecake.jpg",
         "ingredients": [
-            { "name": "Flour", "amount": 18, "unit": "gram", "price": 1 },
+            { "name": "Flour", "amount": 18, "unit": "g", "price": 1 },
             { "name": "Eggs", "amount": 4, "unit": "", "price": 10 },
-            { "name": "Whipped Cream", "amount": 213, "unit": "gram", "price": 15 },
-            { "name": "Cream Cheese", "amount": 445, "unit": "gram", "price": 50 },
-            { "name": "Sugar", "amount": 106, "unit": "gram", "price": 15 },
+            { "name": "Whipped Cream", "amount": 213, "unit": "g", "price": 15 },
+            { "name": "Cream Cheese", "amount": 445, "unit": "g", "price": 50 },
+            { "name": "Sugar", "amount": 106, "unit": "g", "price": 15 },
             { "name": "Lemon Juice", "amount": 5, "unit": "ml", "price": 4 }
         ],
         "description": "Gradually add all the ingredients in order, mix together, and sift the mixture once. Bake in the oven at 220°C for 20-25 minutes. Refrigerate at least for 4 hours then serve!"
@@ -82,15 +82,15 @@
         "./assets/Classic-Lasagna.jpg",
         "ingredients": [
             { "name": "Lasagna", "amount": 12, "unit": "", "price": 20 },
-            { "name": "Pasta Sauce", "amount": 900, "unit": "gram", "price": 50 },
-            { "name": "Minced Beef", "amount": 220, "unit": "gram", "price": 25 },
-            { "name": "Sausage", "amount": 220, "unit": "gram", "price": 35 },
-            { "name": "Ricotta Cheese", "amount": 400, "unit": "gram", "price": 30 },
-            { "name": "Mozzarella Cheese", "amount": 800, "unit": "gram", "price": 80 },
+            { "name": "Pasta Sauce", "amount": 900, "unit": "g", "price": 50 },
+            { "name": "Minced Beef", "amount": 220, "unit": "g", "price": 25 },
+            { "name": "Sausage", "amount": 220, "unit": "g", "price": 35 },
+            { "name": "Ricotta Cheese", "amount": 400, "unit": "g", "price": 30 },
+            { "name": "Mozzarella Cheese", "amount": 800, "unit": "g", "price": 80 },
             { "name": "Garlic", "amount": 2, "unit": "cloves", "price": 2 },
             { "name": "Onion", "amount": 1, "unit": "", "price": 2 },
-            { "name": "Egg", "amount": 1, "unit": "gram", "price": 2.5 },
-            { "name": "Salt", "amount": 10, "unit": "gram", "price": 0.5 }
+            { "name": "Egg", "amount": 1, "unit": "", "price": 2.5 },
+            { "name": "Salt", "amount": 10, "unit": "g", "price": 0.5 }
         ],
         "description": "Boil pasta in a pot of salted water. Cook sausage and beef with onion and garlic, add the pasta sauce and simmer it for a few minutes to thicken. Stir the cheese mixture together in a bowl. Layer the meat sauce and cheese mixture with lasagna noodles and bake until the top of the lasagna is golden brown! Then serve and enjoy!"
     }
