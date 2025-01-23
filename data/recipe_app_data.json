@@ -29,7 +29,7 @@
             { "name": "Oil", "amount": 30, "unit": "gram", "price": 5 },
             { "name": "Eggs", "amount": 4, "unit": "", "price": 10 }
         ],
-        "description": "1. Separate the egg york and egg white, mix egg york with milk, oil and flour together.\\n2. Whip the egg white with sugar in a high speed into solid foam shape.\\n3. Mix all together, and pour into a 6-inch cake form.\\n4. Bake 50 minutes with 180 degree!"
+        "description": "1. Separate the egg york and egg white, mix egg york with milk, oil and flour together.\n2. Whip the egg white with sugar in a high speed into solid foam shape.\n3. Mix all together, and pour into a 6-inch cake form.\n4. Bake 50 minutes with 180 degree!"
     },
     {
         "id": 3,
@@ -43,6 +43,6 @@
             { "name": "Minced Meat", "amount": 500, "unit": "gram", "price": 40 },
             { "name": "Corn", "amount": 100, "unit": "gram", "price": 8 }
         ],
-        "description": "1. Mix flour with salt and water.\\n2. Keep the dough in a warm enviroment for 40 minutes.\\3. Mix minced meat with salt, sugar, soy sause, oyster sause, white pepper powder and corn.\\4. Divide the dough into suitable sizes, roll it out flat, and fill it with meat filling.\\n5. Boiled for 10 minutes and enjoy!"
+        "description": "1. Mix flour with salt and water.\n2. Keep the dough in a warm enviroment for 40 minutes.\n3. Mix minced meat with salt, sugar, soy sause, oyster sause, white pepper powder and corn.\n4. Divide the dough into suitable sizes, roll it out flat, and fill it with meat filling.\n5. Boiled for 10 minutes and enjoy!"
     }
 ]
